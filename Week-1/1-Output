@@ -1,0 +1,70 @@
+PS C:\Users\NATALI PAWAR\OneDrive\Desktop\DSA & Development\5th sem labs\AI-Lab> cd Week-1
+PS C:\Users\NATALI PAWAR\OneDrive\Desktop\DSA & Development\5th sem labs\AI-Lab\Week-1> python 1-Tic-Tac-toe.py
+TIC-TAC-TOE
+You are X and Computer is O
+Enter positions from 1 to 9
+
+  |   |
+--+---+--
+  |   |
+--+---+--
+  |   |
+
+Enter your position (1-9): 1
+
+X |   |
+--+---+--
+  |   |
+--+---+--
+  |   |
+
+Computer played.
+
+X | O |
+--+---+--
+  |   |
+--+---+--
+  |   |
+
+Enter your position (1-9): 5
+
+X | O |
+--+---+--
+  | X |
+--+---+--
+  |   |
+
+Computer played.
+
+X | O |
+--+---+--
+  | X |
+--+---+--
+  |   | O
+
+Enter your position (1-9): 7
+
+X | O |
+--+---+--
+  | X |
+--+---+--
+X |   | O
+
+Computer played.
+
+X | O | O
+--+---+--
+  | X |
+--+---+--
+X |   | O
+
+Enter your position (1-9): 4
+
+X | O | O
+--+---+--
+X | X |
+--+---+--
+X |   | O
+
+Human wins!
+PS C:\Users\NATALI PAWAR\OneDrive\Desktop\DSA & Development\5th sem labs\AI-Lab\Week-1>
