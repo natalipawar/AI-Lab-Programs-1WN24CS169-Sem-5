@@ -1,4 +1,4 @@
-PS C:\Users\NATALI PAWAR\OneDrive\Desktop\DSA & Development\5th sem labs\AI-Lab\Week-1> python 2-Vaccum-Cleaner-Agent.py
+PS C:\Users\NATALI PAWAR\OneDrive\Desktop\DSA & Development\5th sem labs\AI-Lab\Week-1> python 2-Vacuum-Cleaner-Agent.py
 
 Initial State: {'A': 'Dirty', 'B': 'Dirty'}
 
@@ -33,4 +33,4 @@ Room Status: Clean
 3. Exit
 Enter choice: 3
 Exiting Vacuum Cleaner Agent
-PS C:\Users\NATALI PAWAR\OneDrive\Desktop\DSA & Development\5th sem labs\AI-Lab\Week-1> 
+PS C:\Users\NATALI PAWAR\OneDrive\Desktop\DSA & Development\5th sem labs\AI-Lab\Week-1>
